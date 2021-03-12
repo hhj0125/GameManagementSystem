@@ -1,2 +1,2 @@
-# hhjManagementSystem
+# GameManagementSystem
 course project for oop
